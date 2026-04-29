@@ -1,0 +1,103 @@
+{
+  "projectType": "saas",
+  "projectName": "Joong Boo Market",
+  "projectDescription": "Joong Boo Market is a Korean and Asian grocery market offering in-store shopping, online ordering, weekly specials, and a wide selection of fresh produce, meats, seafood, and specialty products.",
+  "theme": "almond",
+  "primaryColor": "#548434",
+  "lightColor": "#ef4424",
+  "darkColor": null,
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Shopping Guide",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "introduction",
+              "store-locations",
+              "store-hours"
+            ]
+          },
+          {
+            "group": "Online Shopping",
+            "pages": [
+              "online-shopping/overview",
+              "online-shopping/create-account",
+              "online-shopping/browsing-products",
+              "online-shopping/cart-checkout"
+            ]
+          },
+          {
+            "group": "Orders & Delivery",
+            "pages": [
+              "orders/pickup",
+              "orders/delivery",
+              "orders/tracking",
+              "orders/returns"
+            ]
+          },
+          {
+            "group": "Deals & Savings",
+            "pages": [
+              "deals/weekly-specials",
+              "deals/loyalty-program",
+              "deals/coupons"
+            ]
+          },
+          {
+            "group": "Account",
+            "pages": [
+              "account/manage-account",
+              "account/payment-methods",
+              "account/order-history"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Help & FAQ",
+        "groups": [
+          {
+            "group": "FAQ",
+            "pages": [
+              "faq/general",
+              "faq/orders",
+              "faq/products",
+              "faq/payments"
+            ]
+          },
+          {
+            "group": "Contact & Support",
+            "pages": [
+              "support/contact",
+              "support/feedback"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Online grocery ordering with pickup and delivery options",
+    "Weekly specials and promotional deals",
+    "Wide selection of Korean and Asian specialty products",
+    "Fresh produce, meats, and seafood departments",
+    "Loyalty rewards program",
+    "Digital coupons and savings",
+    "Multiple store locations in the Chicago area",
+    "Easy account management and order tracking"
+  ],
+  "publicApiSurface": [
+    "Online store product catalog",
+    "Shopping cart and checkout flow",
+    "Order pickup scheduling",
+    "Delivery address management",
+    "Loyalty points balance and redemption",
+    "Weekly ad / specials browsing",
+    "Digital coupon clipping",
+    "Account profile and payment methods",
+    "Order history and reorder",
+    "Store locator"
+  ]
+}

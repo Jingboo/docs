@@ -1,0 +1,93 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "aspen",
+  "name": "Joong Boo Market",
+  "colors": {
+    "primary": "#548434",
+    "light": "#ef4424"
+  },
+  "favicon": "https://media.brand.dev/a89781f6-66d8-4bce-a728-0499281785dd.png",
+  "logo": {
+    "light": "https://media.brand.dev/af598cd0-af1d-413e-a859-19a247c3a269.png",
+    "dark": "https://media.brand.dev/af598cd0-af1d-413e-a859-19a247c3a269.png"
+  },
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "Shop Now",
+      "href": "https://www.joongboomarket.com"
+    }
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Shopping Guide",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "introduction",
+              "store-locations",
+              "store-hours"
+            ]
+          },
+          {
+            "group": "Online Shopping",
+            "pages": [
+              "online-shopping/overview",
+              "online-shopping/create-account",
+              "online-shopping/browsing-products",
+              "online-shopping/cart-checkout"
+            ]
+          },
+          {
+            "group": "Orders & Delivery",
+            "pages": [
+              "orders/pickup",
+              "orders/delivery",
+              "orders/tracking",
+              "orders/returns"
+            ]
+          },
+          {
+            "group": "Deals & Savings",
+            "pages": [
+              "deals/weekly-specials",
+              "deals/loyalty-program",
+              "deals/coupons"
+            ]
+          },
+          {
+            "group": "Account",
+            "pages": [
+              "account/manage-account",
+              "account/payment-methods",
+              "account/order-history"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Help & FAQ",
+        "groups": [
+          {
+            "group": "FAQ",
+            "pages": [
+              "faq/general",
+              "faq/orders",
+              "faq/products",
+              "faq/payments"
+            ]
+          },
+          {
+            "group": "Contact & Support",
+            "pages": [
+              "support/contact",
+              "support/feedback"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
