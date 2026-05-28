@@ -33,7 +33,10 @@
                   {
                     "product": "Docs",
                     "icon": "book-open",
-                    "description": "Mintlify product documentation."
+                    "description": "Mintlify product documentation.",
+                    "pages": [
+                      "untitled-page"
+                    ]
                   },
                   {
                     "product": "Guides",
