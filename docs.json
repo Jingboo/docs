@@ -25,7 +25,12 @@
         "product": "Docs",
         "description": "Mintlify product documentation.",
         "icon": "book-open",
-        "href": "https://www.mintlify.com/docs"
+        "href": "https://www.mintlify.com/docs",
+        "tabs": [
+          {
+            "tab": "Untitled Tab"
+          }
+        ]
       },
       {
         "product": "Guides",
