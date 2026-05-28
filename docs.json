@@ -20,27 +20,32 @@
   },
   "navigation": {
     "directory": "card",
-    "dropdowns": [
+    "anchors": [
       {
-        "dropdown": "这是dor",
-        "tabs": [
+        "anchor": "这是 Anchor",
+        "dropdowns": [
           {
-            "tab": "new",
-            "products": [
+            "dropdown": "这是dor",
+            "tabs": [
               {
-                "product": "Docs",
-                "icon": "book-open",
-                "description": "Mintlify product documentation."
-              },
-              {
-                "product": "Guides",
-                "icon": "compass",
-                "description": "Best-practice guides for technical writing."
-              },
-              {
-                "product": "Articles",
-                "icon": "newspaper",
-                "description": "News, announcements, and engineering posts."
+                "tab": "new",
+                "products": [
+                  {
+                    "product": "Docs",
+                    "icon": "book-open",
+                    "description": "Mintlify product documentation."
+                  },
+                  {
+                    "product": "Guides",
+                    "icon": "compass",
+                    "description": "Best-practice guides for technical writing."
+                  },
+                  {
+                    "product": "Articles",
+                    "icon": "newspaper",
+                    "description": "News, announcements, and engineering posts."
+                  }
+                ]
               }
             ]
           }
